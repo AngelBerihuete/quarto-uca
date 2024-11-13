@@ -14,3 +14,4 @@ date: last-modified
 
 You can learn more about controlling the appearance of PDF output here: <https://quarto.org/docs/output-formats/pdf-basics.html>
 
+<!-- TODO: check https://github.com/andrewheiss/hikmah-academic-quarto/blob/main/_extensions/hikmah/partials/title.tex -->
