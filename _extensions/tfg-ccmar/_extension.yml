@@ -5,6 +5,10 @@ quarto-required: ">=1.4.0"
 contributes:
   formats:
     pdf:
+      documentclass: scrreprt
+      papersize: a4
       toc: true
+      toc-title: Contents
       include-in-header: header.tex
+
 
